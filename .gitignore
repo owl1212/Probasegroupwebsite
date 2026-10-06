@@ -1,0 +1,12 @@
+# Raw/unprocessed source media left in the project root.
+# The live site only references optimized copies under assets/ — these
+# root-level originals are unused by any page and are excluded to keep
+# the repo lean (they're multi-hundred-MB raw video/photo exports).
+/*.mp4
+/*.jpg
+/*.jpeg
+/*.png
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
