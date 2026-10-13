@@ -10,3 +10,6 @@
 # OS / editor noise
 .DS_Store
 Thumbs.db
+
+# Raw originals dropped in by hand; the site uses optimized copies in assets/
+/Public images/
